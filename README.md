@@ -1,5 +1,5 @@
 # Projeto — Teste A/B: Sistema de Recomendação
-##Propósito
+## Propósito
 
 Validar se a introdução de um sistema aprimorado de recomendação melhora o desempenho do funil de conversão de novos usuários da União Europeia.
 
